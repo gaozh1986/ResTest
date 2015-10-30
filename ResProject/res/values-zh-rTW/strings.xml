@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+  <!ENTITY appname "天际通WLANtw">
+]>
+<resources>
+
+    <string name="A001">TW应用1</string>
+    <string name="A002">TW应用2</string>
+    <string name="S001">这是&appname;ZH_TW字符串</string>
+
+</resources>

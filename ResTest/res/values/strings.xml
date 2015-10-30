@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ResTest</string>
+    <string name="hello_world">@string/S001</string>
+
+</resources>

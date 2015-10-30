@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+  <!ENTITY appname "天际通WLANen">
+]>
+<resources>
+
+    <string name="A001">EN应用1</string>
+    <string name="A002">EN应用2</string>
+    <string name="S001">这是&appname;英文字符串</string>
+    <string name="S002">dddd</string>
+
+</resources>
